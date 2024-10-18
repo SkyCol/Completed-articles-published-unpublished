@@ -1,5 +1,6 @@
 # Completed-articles-published-unpublished-
-This is a repository set up for easy access to the papers I have participated in advance.
+This is a repository set up for easy access to the papers I have participated in advance.    
+The acceptance certificate of the papers can be found in "Proof_Of_Acceptance" folder.
 
 ### For "Soybean Pod and Seed Counting in Both Outdoor Fields and Indoor Laboratories Using Unions of Deep Neural Networks", which was accepted by *Eureapon Conference of Computer Vision (ECCV) Workshops*.
 Please check Soybean.pdf
