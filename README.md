@@ -8,7 +8,7 @@ Please check Soybean.pdf
 
 ### For "Lidar Tecgnology: a new player in analyzing plant phenotypes", which was accepted by *Trends in plant science*.
 Please check PLANTS_Lidar.pdf    
-pre [https://authors.elsevier.com/a/1j%7EUD4rGdjaOd7](https://authors.elsevier.com/a/1j%7EUD4rGdjaOd7)
+In press, online avaiable [Cell Press, Trends in Plant Science](https://authors.elsevier.com/a/1j%7EUD4rGdjaOd7)
 
 ### For "Counting wheat heads using a simulation model", which is under review after minor revision, by *Computer and Electronics in Agriculture*.
 Please check Wheat_Counting.pdf
