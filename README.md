@@ -10,7 +10,8 @@ Please check Soybean.pdf
 Please check PLANTS_Lidar.pdf    
 In press, online avaiable [Cell Press, Trends in Plant Science](https://authors.elsevier.com/a/1j%7EUD4rGdjaOd7)
 
-### For "Counting wheat heads using a simulation model", which is under review after minor revision, by *Computer and Electronics in Agriculture*.
+### For "Counting wheat heads using a simulation model", which is under review after minor revision, by *Computer and Electronics in Agriculture*.    
+It has also been accepted on Nobember of 2024 (Recently)
 Please check Wheat_Counting.pdf
 
 ### Always wish you a wonderful day!
